@@ -4,7 +4,7 @@
 **LeTuanVu-Dev/LeTuanVu-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 <ul>
 <li>🔭 Tôi hiện đang làm việc trên Trường học </li>
 <li>🌱 Tôi hiện đang học nhiều ngôn ngữ </li>
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 <li>😄 Đại từ: .. . </li>
 <li>⚡ Thực tế thú vị: ^^ </li>
 </ul>
--->
+
